@@ -1,0 +1,9 @@
+#myCanvas {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+#container-canvas {
+  border: 2px solid gray;
+}
